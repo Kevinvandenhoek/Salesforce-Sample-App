@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "easypeasy",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nakiostudio/EasyPeasy.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "b0028f63d47bcb32e37d8abb9cc5d5a781742a4e"
+      }
+    },
+    {
+      "identity" : "swift-package-inappmessaging",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Salesforce-Async-Messaging/Swift-Package-InAppMessaging",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a880b1eb659f60854808424db932275adba01b80"
+      }
+    }
+  ],
+  "version" : 2
+}
